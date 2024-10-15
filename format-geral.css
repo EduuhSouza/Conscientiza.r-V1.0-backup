@@ -186,6 +186,7 @@ header{
   }
 
 
+
 /* MENU MOBILE */
 
 .menu-mobile{
@@ -321,6 +322,11 @@ display: none;
     width: 40%;
 
 }
+
+.dropdown{
+    visibility: hidden;
+    margin-left: -2em;
+ }
 }
 
 
